@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.center{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+h2{
+    padding-top: 20px;
+}
+
+p{
+    padding-top: 20px;
+}
+
+.d2{
+    text-align: center;
+}
